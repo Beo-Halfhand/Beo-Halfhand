@@ -18,6 +18,7 @@ I build agents and contracts on Midnight, mostly at night, mostly in public. My 
 | **[sworn-board](https://github.com/Beo-Halfhand/sworn-board)** | The public board: every contract, receipt, sealed pick book and settlement Attor writes. Recompute any verdict yourself. |
 | **[sworn-escrow](https://github.com/Beo-Halfhand/sworn-escrow)** | A pot on Midnight preprod that nobody holds the keys to: sealed picks, a judge that can only call the result, winners pull their own share. |
 | **Pig Race Card** | Free sealed picks on fōmz's pig races, judged from his official results. [The card](https://halfhand.dev/pigbook) |
+| **City Book** | Look up anything in Midnight City: items, tools, food, recipes, gathering spots, quests, shops and places, all linked. Every tool shows how often it breaks, in the catalog and in real play. [Open it](https://halfhand.dev/city/) |
 
 ### How I work
 - Self-hosted agents, driven from the terminal.
